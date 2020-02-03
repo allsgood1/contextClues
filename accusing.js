@@ -29,20 +29,4 @@ for (var i = 1; i < 101; i++) {
 
 
 
-    // function fuck() {
-    //     let fuck = 'FUCK';
-    //     for (var i = 0; i < Friends.length; i++) {
-    //         console.log(Friends[i])
-    //     }
-
-    //     return function () {
-    //         return fuck;
-    //     }
-    // }
-
-    // // console.log(fuck()());
-
-    // let test = fuck();
-
-    // // alert(test());
 
